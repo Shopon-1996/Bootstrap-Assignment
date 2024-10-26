@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    background-color: #c9875e;
+    padding: 10px 30px;
+    border-radius: 25px;
+    
+}
+.btn:hover{
+    color: black;
+    background-color: aqua;
+}
+h2{
+    font-size: 74px;
+}
+.skilled{
+    background-color: #b7a0db;
+    justify-content: ;
+}
